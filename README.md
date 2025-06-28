@@ -1,4 +1,4 @@
-# 🧠 Writing a 32-bit x86 Bootloader 
+# 🧠 A 32-bit x86 Bootloader 
 
 building a minimal 32-bit x86 OS bootloader that prints `Hello world!` to the screen. In this first part, we write a simple bootloader in **assembly**, load it with **BIOS**, and emulate it using **QEMU**.
 
